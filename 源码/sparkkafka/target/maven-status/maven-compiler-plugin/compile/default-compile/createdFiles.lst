@@ -1,0 +1,3 @@
+com\bigdata\DataToKafka.class
+com\bigdata\SparkAnalysisDriver.class
+com\bigdata\DataToKafka$1.class
